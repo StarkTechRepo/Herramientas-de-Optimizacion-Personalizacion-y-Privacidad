@@ -1,5 +1,8 @@
 # Herramientas de Optimizacion y Perzonalizacion para Windows.
 
+Este repositorio reúne una selección de herramientas diseñadas para optimizar y mejorar el rendimiento de sistemas Windows, incluso para aquellos usuarios con pocos conocimientos técnicos. A continuación, se proporciona una breve descripción de estas herramientas, junto con enlaces para su descarga y uso.
+
+
 
 Utiliza estas herramientas y recursos para mejorar el rendimiento de tu sistema Windows.
 
