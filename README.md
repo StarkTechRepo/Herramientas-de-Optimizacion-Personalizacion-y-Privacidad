@@ -17,10 +17,10 @@
    - **Descripción:** Firemin está diseñado para mejorar la gestión de la memoria RAM de Firefox, reduciendo el consumo y mejorando la velocidad.
 
 5. **[O&O App Buster](https://www.oo-software.com/en/ooappbuster)**
-   - **Descripción:** Elimina aplicaciones de Windows no deseadas y mejora la privacidad de tu sistema.
+   - **Descripción:** Elimina aplicaciones de Windows no deseadas y mejora la privacidady rendimiento de tu sistema.
 
 6. **[O&O ShutUp10++](https://www.oo-software.com/en/shutup10)**
-    - **Descripción:** Personaliza la configuración de Windows 10 para controlar tu privacidad y ajustar tu sistema a tus necesidades.
+    - **Descripción:** Personaliza la configuración de Windows para controlar tu privacidad y ajustar tu sistema a tus necesidades.
 
 7. **[Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/)**
     - **Descripción:** Bloquea las actualizaciones de Windows de manera sencilla para evitar interrupciones no deseadas.
