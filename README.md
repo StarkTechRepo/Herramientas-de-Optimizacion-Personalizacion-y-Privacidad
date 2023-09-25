@@ -10,7 +10,7 @@
 2. **[Disable CPU Core Parking Utility](https://coderbag.com/programming-c/disable-cpu-core-parking-utility)**
    - **Descripción:** Controla los núcleos de tu CPU para mejorar el rendimiento de tu sistema sin complicaciones técnicas.
 
-3. **[Easy Service Optimizer](https://www.sordum.org/downloads/?easy-service-optimizer)**
+3. **[Easy Service Optimizer](https://www.sordum.org/8637/easy-service-optimizer-v1-2/)**
    - **Descripción:** Esta utilidad simplifica la gestión de servicios de Windows para optimizar el rendimiento y la estabilidad.
 
 4. **[Firemin](https://www.rizonesoft.com/downloads/firemin/)**
