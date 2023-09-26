@@ -37,6 +37,9 @@
 11. **[Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)**
     - **Descripción:** Añade opciones útiles al menú contextual del Explorador de Windows para una mayor conveniencia.
 
+12. **[Reduce Memory](https://www.sordum.org/9197/reduce-memory-v1-6/)**
+    - **Descripción:** es una herramienta esencial para optimizar el uso de RAM y mejorar el rendimiento del sistema.
+
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
