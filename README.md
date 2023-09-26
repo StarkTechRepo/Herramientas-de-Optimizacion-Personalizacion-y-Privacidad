@@ -40,6 +40,9 @@
 12. **[Reduce Memory](https://www.sordum.org/9197/reduce-memory-v1-6/)**
     - **Descripción:** es una herramienta esencial para optimizar el uso de RAM y mejorar el rendimiento del sistema.
 
+13. **[BleachBit](https://www.bleachbit.org/)**
+    - **Descripción:** es una herramienta de limpieza del disco duro de software libre y de código abierto, administrador de privacidad y optimizador del sistema.
+
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
