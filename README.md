@@ -1,4 +1,4 @@
-# Herramientas de Optimización, Personalización y Privacidad para Windows
+# Herramientas de Optimización, Personalización y Privacidad para Windows (Para Novatos)
 
 ¡Bienvenido al repositorio de Herramientas de Optimización, Personalización y Privacidad para Windows! Aquí encontrarás una cuidadosa selección de herramientas diseñadas para mejorar tu experiencia con Windows, personalizar tu sistema y mantener tu privacidad. A continuación, te ofrecemos una breve descripción de estas herramientas, junto con enlaces para descargarlas y usarlas de manera efectiva.
 
