@@ -43,6 +43,9 @@
 13. **[BleachBit](https://www.bleachbit.org/)**
     - **Descripción:** es una herramienta de limpieza del disco duro de software libre y de código abierto, administrador de privacidad y optimizador del sistema.
 
+14. [IObit Uninstaller](https://www.iobit.com/es/advanceduninstaller.php)
+    - **Descripción:** Herramienta de desinstalación eficiente y optimización del sistema para Windows.
+
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
