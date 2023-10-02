@@ -49,7 +49,7 @@
 15. [Folder Painter](https://www.sordum.org/10124/folder-painter-v1-3/)
     - **Descripción:** Folder Painter es una práctica herramienta que te permite personalizar el color de tus carpetas en Windows, facilitando la organización y reconocimiento de tus directorios.
 
-16. **[Process Lasso](https://bitsum.com/products/lasso/)**
+16. [Process Lasso](https://bitsum.com/products/lasso/)
    - **Descripción:** Process Lasso es una herramienta de optimización de procesos para sistemas Windows que te permite mejorar el rendimiento y la estabilidad de tu sistema al ajustar la asignación de recursos y administrar los procesos en segundo plano.
 
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
