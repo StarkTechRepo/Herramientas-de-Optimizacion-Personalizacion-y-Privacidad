@@ -52,6 +52,10 @@
 16. [Process Lasso](https://bitsum.com/products/lasso/)
    - **Descripción:** Process Lasso es una herramienta de optimización de procesos para sistemas Windows que te permite mejorar el rendimiento y la estabilidad de tu sistema al ajustar la asignación de recursos y administrar los procesos en segundo plano.
 
+17. [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+   - **Descripción:**  Microsoft PowerToys es un conjunto de utilidades para que los usuarios avanzados mejoren y optimicen su experiencia con Windows a fin de aumentar la productividad.
+   - [Caracteristicas: PowerToys](https://learn.microsoft.com/es-es/windows/powertoys/)
+
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
