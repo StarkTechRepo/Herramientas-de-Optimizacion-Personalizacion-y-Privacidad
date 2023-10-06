@@ -52,10 +52,15 @@
 16. [Process Lasso](https://bitsum.com/products/lasso/)
    - **Descripción:** Process Lasso es una herramienta de optimización de procesos para sistemas Windows que te permite mejorar el rendimiento y la estabilidad de tu sistema al ajustar la asignación de recursos y administrar los procesos en segundo plano.
 
-17. [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+17. [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater#windows10debloater)
+   - **Descripción:** Windows10Debloater es un script para desbloquear Windows 10, eliminar aplicaciones innecesarias preinstaladas de Windows, detener algunas funciones de telemetría, evitar que Cortana se use como índice de búsqueda, deshabilitar tareas programadas innecesarias y más...
+
+18. [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
    - **Descripción:**  Microsoft PowerToys es un conjunto de utilidades para que los usuarios avanzados mejoren y optimicen su experiencia con Windows a fin de aumentar la productividad.
    - [Caracteristicas: PowerToys](https://learn.microsoft.com/es-es/windows/powertoys/)
-
+```powershell
+iwr -useb https://git.io/debloat|iex
+```
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
