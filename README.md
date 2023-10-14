@@ -2,6 +2,31 @@
 
 ¡Bienvenido al repositorio de Herramientas de Optimización, Personalización y Privacidad para Windows! Aquí encontrarás una cuidadosa selección de herramientas diseñadas para mejorar tu experiencia con Windows, personalizar tu sistema y mantener tu privacidad. A continuación, te ofrecemos una breve descripción de estas herramientas, junto con enlaces para descargarlas y usarlas de manera efectiva.
 
+## Índice
+1. [Optimización del Sistema](#optimización-del-sistema)
+   - [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+   - [Disable CPU Core Parking Utility](https://coderbag.com/programming-c/disable-cpu-core-parking-utility)
+   - [Easy Service Optimizer](https://www.sordum.org/8637/easy-service-optimizer-v1-2/)
+   - [Firemin](https://www.rizonesoft.com/downloads/firemin/)
+   - [O&O App Buster](https://www.oo-software.com/en/ooappbuster)
+   - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
+   - [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+   - [Dns Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/)
+   - [Optimizer](https://github.com/hellzerg/optimizer/releases)
+   - [WinSlap](https://github.com/svenmauch/WinSlap)
+   - [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
+   - [Reduce Memory](https://www.sordum.org/9197/reduce-memory-v1-6/)
+   - [BleachBit](https://www.bleachbit.org/)
+   - [IObit Uninstaller](https://www.iobit.com/es/advanceduninstaller.php)
+   - [Folder Painter](https://www.sordum.org/10124/folder-painter-v1-3/)
+   - [Process Lasso](https://bitsum.com/products/lasso/)
+   - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater#windows10debloater)
+   - [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+
+2. [Licencia](#licencia)
+
+3. [Nota importante](#nota-importante)
+
 ## Optimización del Sistema:
 
 1. **[Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)**
