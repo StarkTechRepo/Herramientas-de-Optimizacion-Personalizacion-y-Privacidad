@@ -20,6 +20,8 @@
    - [Process Lasso](https://bitsum.com/products/lasso/)
    - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater#windows10debloater)
    - [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+   - [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+   - [TCP Optimizer](https://www.speedguide.net/downloads.php)
 2. [Licencia](#licencia)
 3. [Nota importante](#nota-importante)
 
@@ -119,6 +121,16 @@ iwr -useb https://git.io/debloat|iex
    - [Caracteristicas: PowerToys](https://learn.microsoft.com/es-es/windows/powertoys/)
 
 Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
+
+---
+
+19. [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+    - **Descripción:** WindowsSpyBlocker es una poderosa herramienta diseñada para bloquear la telemetría y la recopilación de datos en sistemas Windows. Ofrece opciones flexibles para proteger tu privacidad al deshabilitar funciones no deseadas y mejorar la seguridad de tu sistema operativo. Con WindowsSpyBlocker, puedes tener un mayor control sobre qué información se comparte con Microsoft, fortaleciendo así tu privacidad en el entorno de Windows.
+
+---
+
+20. [TCP Optimizer](https://www.speedguide.net/downloads.php)
+    - **Descripción:** TCP Optimizer es una herramienta eficiente diseñada para optimizar y ajustar la configuración de la pila TCP/IP en sistemas Windows. Permite mejorar la velocidad de la conexión a Internet al ajustar parámetros relacionados con la transmisión de datos. Con TCP Optimizer, puedes personalizar la configuración de red para obtener un rendimiento óptimo y una mejor experiencia de navegación.
 
 ---
 
