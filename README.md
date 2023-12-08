@@ -120,8 +120,6 @@ iwr -useb https://git.io/debloat|iex
    - **Descripción:**  Microsoft PowerToys es un conjunto de utilidades para que los usuarios avanzados mejoren y optimicen su experiencia con Windows a fin de aumentar la productividad.
    - [Caracteristicas: PowerToys](https://learn.microsoft.com/es-es/windows/powertoys/)
 
-Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
-
 ---
 
 19. [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
@@ -133,6 +131,8 @@ Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Win
     - **Descripción:** TCP Optimizer es una herramienta eficiente diseñada para optimizar y ajustar la configuración de la pila TCP/IP en sistemas Windows. Permite mejorar la velocidad de la conexión a Internet al ajustar parámetros relacionados con la transmisión de datos. Con TCP Optimizer, puedes personalizar la configuración de red para obtener un rendimiento óptimo y una mejor experiencia de navegación.
 
 ---
+
+Estas herramientas te permiten optimizar, personalizar y proteger tu sistema Windows de una manera accesible y eficaz. ¡Explora y ajusta tu sistema según tus necesidades y preferencias!
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
